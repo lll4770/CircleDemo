@@ -1,0 +1,12 @@
+D:\OldE\Project\CircleDemo\CircleDemo\bin\Debug\CircleDemo.exe.config
+D:\OldE\Project\CircleDemo\CircleDemo\bin\Debug\CircleDemo.exe
+D:\OldE\Project\CircleDemo\CircleDemo\bin\Debug\CircleDemo.pdb
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.Properties.Resources.resources
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.csproj.GenerateResource.Cache
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.exe
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.pdb
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.半圆中布条面积.resources
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.Form2.resources
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.MainStart.resources
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.Form3.resources
+D:\OldE\Project\CircleDemo\CircleDemo\obj\Debug\CircleDemo.Form4.resources
